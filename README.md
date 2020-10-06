@@ -4,10 +4,10 @@
 ## Computer Setup
 
 # clone git
-git clone https://github.com/filiaultd/reproducibility-tutorial.git
+     git clone https://github.com/filiaultd/reproducibility-tutorial.git
     
 # get miniconda
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+     wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
    
 # install miniconda
 bash Miniconda3-latest-Linux-x86_64.sh -b -p /opt/conda
